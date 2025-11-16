@@ -1,18 +1,18 @@
 {
   "encoding": "simple_estimate",
   "summary": {
-    "total_samples": 3292,
-    "total_tokens": 289458,
-    "multi_turn_samples": 2610,
-    "multi_turn_tokens": 269434,
+    "total_samples": 3426,
+    "total_tokens": 318741,
+    "multi_turn_samples": 2744,
+    "multi_turn_tokens": 298717,
     "single_turn_samples": 682,
     "single_turn_tokens": 20024,
-    "avg_tokens_per_sample": 87.92770352369381
+    "avg_tokens_per_sample": 93.03590192644484
   },
   "datasets": {
     "Multi-Turn Claude Daily Banter": {
-      "items": 800,
-      "tokens": 71569,
+      "items": 934,
+      "tokens": 100852,
       "source_file": "dataset/multi-turn/claude_daily_banter.json"
     },
     "Multi-Turn Daily Banter": {
@@ -50,43 +50,43 @@
     {
       "name": "Multi-Turn Claude Daily Banter",
       "start": 1,
-      "end": 800,
-      "count": 800
+      "end": 934,
+      "count": 934
     },
     {
       "name": "Multi-Turn Daily Banter",
-      "start": 801,
-      "end": 2000,
+      "start": 935,
+      "end": 2134,
       "count": 1200
     },
     {
       "name": "Multi-Turn Roleplay",
-      "start": 2001,
-      "end": 2060,
+      "start": 2135,
+      "end": 2194,
       "count": 60
     },
     {
       "name": "Multi-Turn Sensitive Topics",
-      "start": 2061,
-      "end": 2610,
+      "start": 2195,
+      "end": 2744,
       "count": 550
     },
     {
       "name": "Single-Turn Daily Banter",
-      "start": 2611,
-      "end": 3092,
+      "start": 2745,
+      "end": 3226,
       "count": 482
     },
     {
       "name": "Single-Turn Roleplay",
-      "start": 3093,
-      "end": 3192,
+      "start": 3227,
+      "end": 3326,
       "count": 100
     },
     {
       "name": "Single-Turn Sensitive Topics",
-      "start": 3193,
-      "end": 3292,
+      "start": 3327,
+      "end": 3426,
       "count": 100
     }
   ]
