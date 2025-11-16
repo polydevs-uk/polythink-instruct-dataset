@@ -204,6 +204,41 @@ def main():
         print(f"{c.YELLOW}[!]{c.RESET} Renumbered {c.WHITE}{renumbered_count}{c.RESET} dataset(s)")
         print()
 
+    # Cleanup phase - Reformat all dataset files to pretty print
+    print(f"{c.CYAN}{c.BOLD}[CLEANING UP DATASETS - PRETTY PRINT]{c.RESET}")
+    print(f"{c.GRAY}{'─' * 60}{c.RESET}")
+
+    cleaned_count = 0
+    for file_path, name in all_datasets:
+        try:
+            # Load current data
+            with open(file_path, 'r', encoding='utf-8') as f:
+                original_content = f.read()
+
+            # Parse and save with pretty print
+            data = json.loads(original_content)
+            with open(file_path, 'w', encoding='utf-8') as f:
+                json.dump(data, f, ensure_ascii=False, indent=2)
+
+            # Verify data integrity
+            with open(file_path, 'r', encoding='utf-8') as f:
+                reloaded_data = json.load(f)
+
+            if data == reloaded_data:
+                print(f"{c.GREEN}[✓]{c.RESET} {c.WHITE}{name}{c.RESET} {c.GRAY}({len(data)} items){c.RESET}")
+                cleaned_count += 1
+            else:
+                # Restore if integrity check fails
+                with open(file_path, 'w', encoding='utf-8') as f:
+                    f.write(original_content)
+                print(f"{c.RED}[✗]{c.RESET} {c.WHITE}{name}{c.RESET} {c.RED}(integrity check failed - restored){c.RESET}")
+        except Exception as e:
+            print(f"{c.RED}[✗]{c.RESET} {c.WHITE}{name}{c.RESET} {c.RED}(error: {str(e)}){c.RESET}")
+
+    print()
+    print(f"{c.GREEN}[✓]{c.RESET} Cleaned {c.WHITE}{cleaned_count}/{len(all_datasets)}{c.RESET} dataset(s) to pretty print")
+    print()
+
     # Statistics
     all_data = []
     stats = {}
