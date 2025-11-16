@@ -204,6 +204,29 @@ def main():
         print(f"{c.YELLOW}[!]{c.RESET} Renumbered {c.WHITE}{renumbered_count}{c.RESET} dataset(s)")
         print()
 
+    # Cleanup phase - Reformat all dataset files to pretty print (silent)
+    for file_path, name in all_datasets:
+        try:
+            # Load current data
+            with open(file_path, 'r', encoding='utf-8') as f:
+                original_content = f.read()
+
+            # Parse and save with pretty print
+            data = json.loads(original_content)
+            with open(file_path, 'w', encoding='utf-8') as f:
+                json.dump(data, f, ensure_ascii=False, indent=2)
+
+            # Verify data integrity
+            with open(file_path, 'r', encoding='utf-8') as f:
+                reloaded_data = json.load(f)
+
+            if data != reloaded_data:
+                # Restore if integrity check fails
+                with open(file_path, 'w', encoding='utf-8') as f:
+                    f.write(original_content)
+        except:
+            pass
+
     # Statistics
     all_data = []
     stats = {}
