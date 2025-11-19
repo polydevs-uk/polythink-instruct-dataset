@@ -10285,11 +10285,11 @@
             },
             {
                 "role": "user",
-                "content": "nóng nực quá"
+                "content": "nóng quá trời ơi"
             },
             {
                 "role": "assistant",
-                "content": "đi ăn chè đi a\nchè sầu liên đà nẵng\nngon nhức nách\năn bát chè mát lạnh tỉnh cả người\nthêm cái bánh flan nữa\nbéo ngậy\nchảy nước miếng r a ơi\nđi luôn đi\nđừng chần chừ"
+                "content": "đi ăn chè đi a\nchè sầu liên đà nẵng\nngon nhức nách\năn bát chè mát lạnh tỉnh cả người\nthêm cái bánh flan nữa\nbéo ngậy\nchảy nước miếng luôn a ơi\nđi luôn đi"
             },
             {
                 "role": "user",
