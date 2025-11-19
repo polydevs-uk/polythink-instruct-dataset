@@ -1,24 +1,29 @@
 {
   "encoding": "simple_estimate",
   "summary": {
-    "total_samples": 3426,
-    "total_tokens": 318741,
-    "multi_turn_samples": 2744,
-    "multi_turn_tokens": 298717,
+    "total_samples": 3732,
+    "total_tokens": 366351,
+    "multi_turn_samples": 3050,
+    "multi_turn_tokens": 346327,
     "single_turn_samples": 682,
     "single_turn_tokens": 20024,
-    "avg_tokens_per_sample": 93.03590192644484
+    "avg_tokens_per_sample": 98.16479099678456
   },
   "datasets": {
     "Multi-Turn Claude Daily Banter": {
-      "items": 934,
-      "tokens": 100852,
+      "items": 940,
+      "tokens": 103624,
       "source_file": "dataset/multi-turn/claude_daily_banter.json"
     },
     "Multi-Turn Daily Banter": {
       "items": 1200,
       "tokens": 126336,
       "source_file": "dataset/multi-turn/daily_banter.json"
+    },
+    "Multi-Turn Gemini Daily Banter 1": {
+      "items": 300,
+      "tokens": 44838,
+      "source_file": "dataset/multi-turn/gemini_daily_banter_1.json"
     },
     "Multi-Turn Roleplay": {
       "items": 60,
@@ -50,43 +55,49 @@
     {
       "name": "Multi-Turn Claude Daily Banter",
       "start": 1,
-      "end": 934,
-      "count": 934
+      "end": 940,
+      "count": 940
     },
     {
       "name": "Multi-Turn Daily Banter",
-      "start": 935,
-      "end": 2134,
+      "start": 941,
+      "end": 2140,
       "count": 1200
     },
     {
+      "name": "Multi-Turn Gemini Daily Banter 1",
+      "start": 2141,
+      "end": 2440,
+      "count": 300
+    },
+    {
       "name": "Multi-Turn Roleplay",
-      "start": 2135,
-      "end": 2194,
+      "start": 2441,
+      "end": 2500,
       "count": 60
     },
     {
       "name": "Multi-Turn Sensitive Topics",
-      "start": 2195,
-      "end": 2744,
+      "start": 2501,
+      "end": 3050,
       "count": 550
     },
     {
       "name": "Single-Turn Daily Banter",
-      "start": 2745,
-      "end": 3226,
+      "start": 3051,
+      "end": 3532,
       "count": 482
     },
     {
       "name": "Single-Turn Roleplay",
-      "start": 3227,
-      "end": 3326,
+      "start": 3533,
+      "end": 3632,
       "count": 100
     },
     {
       "name": "Single-Turn Sensitive Topics",
-      "start": 3327,
-      "end": 3426,
+      "start": 3633,
+      "end": 3732,
       "count": 100
     }
   ]
