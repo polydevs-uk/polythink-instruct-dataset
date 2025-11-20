@@ -2,12 +2,12 @@
   "encoding": "simple_estimate",
   "summary": {
     "total_samples": 3732,
-    "total_tokens": 366351,
+    "total_tokens": 366321,
     "multi_turn_samples": 3050,
-    "multi_turn_tokens": 346327,
+    "multi_turn_tokens": 346297,
     "single_turn_samples": 682,
     "single_turn_tokens": 20024,
-    "avg_tokens_per_sample": 98.16479099678456
+    "avg_tokens_per_sample": 98.15675241157557
   },
   "datasets": {
     "Multi-Turn Claude Daily Banter": {
@@ -22,7 +22,7 @@
     },
     "Multi-Turn Gemini Daily Banter 1": {
       "items": 300,
-      "tokens": 44838,
+      "tokens": 44808,
       "source_file": "dataset/multi-turn/gemini_daily_banter_1.json"
     },
     "Multi-Turn Roleplay": {
