@@ -1,1 +1,1 @@
-# Polymind
+# Polythink instruct dataset
