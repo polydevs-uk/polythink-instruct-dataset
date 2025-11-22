@@ -36,9 +36,9 @@ def count_tokens_in_item(item):
     if 'system' in item:
         total += count_tokens(item['system'])
 
-    # Multi-turn conversations (format: conversations array with role/content)
-    if 'conversations' in item:
-        for conv in item['conversations']:
+    # Multi-turn messages (format: messages array with role/content)
+    if 'messages' in item:
+        for conv in item['messages']:
             total += count_tokens(conv['content'])
 
     # Single-turn user/assistant (format: user/assistant fields)
