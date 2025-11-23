@@ -1216,7 +1216,7 @@
       },
       {
         "role": "user",
-        "content": "xe máy\ntổng 4 ng"
+        "content": "xe máy\ntổng 6 ng"
       },
       {
         "role": "assistant",
@@ -1224,7 +1224,7 @@
       },
       {
         "role": "user",
-        "content": "nc,đồ ăn,giày leo núi,..."
+        "content": "nc,đồ ăn,giày leo núi,.."
       },
       {
         "role": "assistant",
