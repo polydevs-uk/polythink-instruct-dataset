@@ -485,7 +485,7 @@
       },
       {
         "role": "assistant",
-        "content": "7 tr\nsudah bao gồm thi"
+        "content": "7 m\nsudah bao gồm thi"
       },
       {
         "role": "user",
@@ -718,7 +718,7 @@
       },
       {
         "role": "user",
-        "content": "tầm 2-3 tr"
+        "content": "tầm 2-3 m"
       },
       {
         "role": "assistant",
@@ -865,7 +865,7 @@
       },
       {
         "role": "user",
-        "content": "30-40 tr\nđi học đi lm"
+        "content": "30-40 m\nđi học đi lm"
       },
       {
         "role": "assistant",
@@ -1122,7 +1122,7 @@
       },
       {
         "role": "assistant",
-        "content": "đàn cho ng ms học\n2-3 tr th\nyamaha hoặc fender"
+        "content": "đàn cho ng ms học\n2-3 m th\nyamaha hoặc fender"
       },
       {
         "role": "user",
@@ -1445,7 +1445,7 @@
       },
       {
         "role": "user",
-        "content": "tầm 2-3 tr"
+        "content": "tầm 2-3 m"
       },
       {
         "role": "assistant",
@@ -2111,7 +2111,7 @@
       },
       {
         "role": "assistant",
-        "content": "hơi khó\nnhma vui lắm\ndky lớp đi"
+        "content": "hơi khó\nnhma vui lắm\n đăng kí lớp đi"
       },
       {
         "role": "user",
@@ -2131,7 +2131,7 @@
       },
       {
         "role": "user",
-        "content": "ok\nv t sẽ dky"
+        "content": "ok\nv t sẽ đăng kí"
       },
       {
         "role": "assistant",
@@ -2287,11 +2287,11 @@
       },
       {
         "role": "user",
-        "content": "t vừa nộp cv vào cty mới"
+        "content": "t vừa nộp cv vào công ty mới"
       },
       {
         "role": "assistant",
-        "content": "ơ\ntht à\ncty nào v"
+        "content": "ơ\ntht à\ncông ty nào v"
       },
       {
         "role": "user",
@@ -2348,7 +2348,7 @@
       },
       {
         "role": "assistant",
-        "content": "tầm 12-15 tr\ntùy version"
+        "content": "tầm 12-15 m\ntùy version"
       },
       {
         "role": "user",
@@ -2364,7 +2364,7 @@
       },
       {
         "role": "assistant",
-        "content": "dc\nrẻ hơn nhiều\n5-7 tr thôi"
+        "content": "dc\nrẻ hơn nhiều\n5-7 m thôi"
       },
       {
         "role": "user",
@@ -2397,7 +2397,7 @@
       },
       {
         "role": "assistant",
-        "content": "thế à\nxem youtube đi\nhoặc dky lớp"
+        "content": "thế à\nxem youtube đi\nhoặc đăng kí lớp"
       },
       {
         "role": "user",
@@ -2413,7 +2413,7 @@
       },
       {
         "role": "assistant",
-        "content": "500k-1 tr/buổi\ntùy món"
+        "content": "500k-1 m/buổi\ntùy món"
       },
       {
         "role": "user",
@@ -2491,7 +2491,7 @@
       },
       {
         "role": "user",
-        "content": "budget tầm 2-3 tr dc k"
+        "content": "budget tầm 2-3 m dc k"
       },
       {
         "role": "assistant",
@@ -2585,15 +2585,15 @@
       },
       {
         "role": "assistant",
-        "content": "12 tr\nbao gồm thi luôn"
+        "content": "12 m\nbao gồm thi luôn"
       },
       {
         "role": "user",
-        "content": "ok\nt sẽ dky"
+        "content": "ok\nt sẽ đăng kí"
       },
       {
         "role": "assistant",
-        "content": "oke\ndky r học chung cho vui"
+        "content": "oke\n đăng kí r học chung cho vui"
       }
     ]
   },
@@ -2667,7 +2667,7 @@
       },
       {
         "role": "assistant",
-        "content": "tùy số\ntừ vài trăm k đến vài chục tr\nm muốn số j"
+        "content": "tùy số\ntừ vài trăm k đến vài chục m\nm muốn số j"
       },
       {
         "role": "user",
@@ -2675,7 +2675,7 @@
       },
       {
         "role": "assistant",
-        "content": "thế thì mắc đó\nvài tr ít nhất\nnhma đẹp thật"
+        "content": "thế thì mắc đó\nvài m ít nhất\nnhma đẹp thật"
       }
     ]
   },
@@ -2704,7 +2704,7 @@
       },
       {
         "role": "user",
-        "content": "tầm 5-7 tr/tháng"
+        "content": "tầm 5-7 m/tháng"
       },
       {
         "role": "assistant",
@@ -2806,7 +2806,7 @@
       },
       {
         "role": "assistant",
-        "content": "tùy máy\niphone thì 2-3 tr\nandroid rẻ hơn"
+        "content": "tùy máy\niphone thì 2-3 m\nandroid rẻ hơn"
       },
       {
         "role": "user",
@@ -2884,7 +2884,7 @@
       },
       {
         "role": "user",
-        "content": "tầm 25-30 tr"
+        "content": "tầm 25-30 m"
       },
       {
         "role": "assistant",
@@ -2957,7 +2957,7 @@
       },
       {
         "role": "user",
-        "content": "1.5 tr/đêm\nchia 2 người"
+        "content": "1.5 m/đêm\nchia 2 người"
       },
       {
         "role": "assistant",
@@ -2994,7 +2994,7 @@
       },
       {
         "role": "assistant",
-        "content": "500k-1 tr\ntùy loại"
+        "content": "500k-1 m\ntùy loại"
       },
       {
         "role": "user",
@@ -3043,7 +3043,7 @@
       },
       {
         "role": "assistant",
-        "content": "youtube nhiều tutorial\nhoặc dky khóa học"
+        "content": "youtube nhiều tutorial\nhoặc đăng kí khóa học"
       },
       {
         "role": "user",
@@ -3231,7 +3231,7 @@
       },
       {
         "role": "assistant",
-        "content": "10-15 tr\nnhma chất lượng ngon"
+        "content": "10-15 m\nnhma chất lượng ngon"
       },
       {
         "role": "user",
@@ -3239,7 +3239,7 @@
       },
       {
         "role": "assistant",
-        "content": "có\npanasonic hoặc philips\n1-2 tr thôi\ncx oke lắm"
+        "content": "có\npanasonic hoặc philips\n1-2 m thôi\ncx oke lắm"
       },
       {
         "role": "user",
@@ -3317,7 +3317,7 @@
       },
       {
         "role": "user",
-        "content": "tầm 3-5 tr"
+        "content": "tầm 3-5 m"
       },
       {
         "role": "assistant",
@@ -3370,7 +3370,7 @@
       },
       {
         "role": "assistant",
-        "content": "dky lớp đi\nhoặc xem youtube"
+        "content": "đăng kí lớp đi\nhoặc xem youtube"
       },
       {
         "role": "user",
@@ -3386,11 +3386,11 @@
       },
       {
         "role": "assistant",
-        "content": "800k-1.5 tr/tháng\ntùy chỗ"
+        "content": "800k-1.5 m/tháng\ntùy chỗ"
       },
       {
         "role": "user",
-        "content": "ok\nt sẽ dky"
+        "content": "ok\nt sẽ đăng kí"
       },
       {
         "role": "assistant",
@@ -3574,7 +3574,7 @@
       },
       {
         "role": "assistant",
-        "content": "1-3 tr\ntùy size"
+        "content": "1-3 m\ntùy size"
       },
       {
         "role": "user",
@@ -3721,7 +3721,7 @@
       },
       {
         "role": "assistant",
-        "content": "5-8 tr\ntùy loại"
+        "content": "5-8 m\ntùy loại"
       },
       {
         "role": "user",
@@ -3770,7 +3770,7 @@
       },
       {
         "role": "assistant",
-        "content": "1-1.5 tr/tháng\n12 buổi"
+        "content": "1-1.5 m/tháng\n12 buổi"
       },
       {
         "role": "user",
@@ -3799,7 +3799,7 @@
       },
       {
         "role": "user",
-        "content": "tầm 1-2 tr"
+        "content": "tầm 1-2 m"
       },
       {
         "role": "assistant",
@@ -3901,7 +3901,7 @@
       },
       {
         "role": "assistant",
-        "content": "thế à\ndky lớp đi\nhoặc xem youtube"
+        "content": "thế à\n đăng kí lớp đi\nhoặc xem youtube"
       },
       {
         "role": "user",
@@ -3917,11 +3917,11 @@
       },
       {
         "role": "assistant",
-        "content": "500k-1 tr/buổi\ncó nguyên liệu luôn"
+        "content": "500k-1 m/buổi\ncó nguyên liệu luôn"
       },
       {
         "role": "user",
-        "content": "ok\nt sẽ dky"
+        "content": "ok\nt sẽ đăng kí"
       },
       {
         "role": "assistant",
@@ -4097,7 +4097,7 @@
       },
       {
         "role": "assistant",
-        "content": "levi's 1-2 tr\nuniqlo 500-800k"
+        "content": "levi's 1-2 m\nuniqlo 500-800k"
       },
       {
         "role": "user",
@@ -4179,7 +4179,7 @@
       },
       {
         "role": "assistant",
-        "content": "800k-2 tr\ntùy loại"
+        "content": "800k-2 m\ntùy loại"
       },
       {
         "role": "user",
@@ -4236,11 +4236,11 @@
       },
       {
         "role": "assistant",
-        "content": "2-3 tr/tháng\n3 buổi/tuần"
+        "content": "2-3 m/tháng\n3 buổi/tuần"
       },
       {
         "role": "user",
-        "content": "ok\nt sẽ dky"
+        "content": "ok\nt sẽ đăng kí"
       },
       {
         "role": "assistant",
@@ -4265,7 +4265,7 @@
       },
       {
         "role": "user",
-        "content": "tầm 500k-1 tr"
+        "content": "tầm 500k-1 m"
       },
       {
         "role": "assistant",
@@ -4383,7 +4383,7 @@
       },
       {
         "role": "assistant",
-        "content": "1.5-2 tr\ntùy loại"
+        "content": "1.5-2 m\ntùy loại"
       }
     ]
   },
@@ -4563,7 +4563,7 @@
       },
       {
         "role": "assistant",
-        "content": "500k-1.5 tr\ntùy công suất"
+        "content": "500k-1.5 m\ntùy công suất"
       },
       {
         "role": "user",
@@ -4661,7 +4661,7 @@
       },
       {
         "role": "assistant",
-        "content": "3-7 tr\ntùy model"
+        "content": "3-7 m\ntùy model"
       },
       {
         "role": "user",
@@ -4718,11 +4718,11 @@
       },
       {
         "role": "assistant",
-        "content": "2-3 tr/tháng\n3 buổi/tuần"
+        "content": "2-3 m/tháng\n3 buổi/tuần"
       },
       {
         "role": "user",
-        "content": "ok\nt sẽ dky"
+        "content": "ok\nt sẽ đăng kí"
       },
       {
         "role": "assistant",
@@ -4857,7 +4857,7 @@
       },
       {
         "role": "assistant",
-        "content": "8-12 tr\ntùy hãng\nsudah bao gồm lắp đặt"
+        "content": "8-12 m\ntùy hãng\nsudah bao gồm lắp đặt"
       },
       {
         "role": "user",
@@ -4947,7 +4947,7 @@
       },
       {
         "role": "assistant",
-        "content": "5-15 tr\ntùy model"
+        "content": "5-15 m\ntùy model"
       },
       {
         "role": "user",
@@ -5049,11 +5049,11 @@
       },
       {
         "role": "user",
-        "content": "ok cx hợp lý\nt dky thử"
+        "content": "ok cx hợp lý\nt đăng kí thử"
       },
       {
         "role": "assistant",
-        "content": "dc\ndky r lm bánh cho t ăn nha"
+        "content": "dc\n đăng kí r lm bánh cho t ăn nha"
       }
     ]
   },
@@ -5282,7 +5282,7 @@
       },
       {
         "role": "assistant",
-        "content": "khoảng 3-4 tr\ntùy chỗ"
+        "content": "khoảng 3-4 m\ntùy chỗ"
       },
       {
         "role": "user",
@@ -5380,7 +5380,7 @@
       },
       {
         "role": "assistant",
-        "content": "khoảng 25-30 tr\ntùy ram"
+        "content": "khoảng 25-30 m\ntùy ram"
       },
       {
         "role": "user",
@@ -5388,7 +5388,7 @@
       },
       {
         "role": "assistant",
-        "content": "thinkpad rẻ hơn\n15-20 tr\nnhma cx ngon lắm"
+        "content": "thinkpad rẻ hơn\n15-20 m\nnhma cx ngon lắm"
       },
       {
         "role": "user",
@@ -5482,11 +5482,11 @@
       },
       {
         "role": "user",
-        "content": "ngon\nt dky thử"
+        "content": "ngon\nt đăng kí thử"
       },
       {
         "role": "assistant",
-        "content": "dc\nt cx muốn dky\ncùng đi luôn k"
+        "content": "dc\nt cx muốn đăng kí\ncùng đi luôn k"
       },
       {
         "role": "user",
@@ -5494,7 +5494,7 @@
       },
       {
         "role": "assistant",
-        "content": "oke\nvậy t dky cho 2 người nha"
+        "content": "oke\nvậy t đăng kí cho 2 người nha"
       }
     ]
   },
@@ -5576,11 +5576,11 @@
       },
       {
         "role": "assistant",
-        "content": "8 buổi\n2 tr\nđc cung cấp đồ vẽ luôn"
+        "content": "8 buổi\n2 m\nđc cung cấp đồ vẽ luôn"
       },
       {
         "role": "user",
-        "content": "ngon\nt dky thử"
+        "content": "ngon\nt đăng kí thử"
       },
       {
         "role": "assistant",
@@ -5731,15 +5731,15 @@
       },
       {
         "role": "assistant",
-        "content": "cx oke\nt dky thử\nmua guitar ở đâu"
+        "content": "cx oke\nt đăng kí thử\nmua guitar ở đâu"
       },
       {
         "role": "user",
-        "content": "ở đó bán luôn\nkhoảng 2-3 tr"
+        "content": "ở đó bán luôn\nkhoảng 2-3 m"
       },
       {
         "role": "assistant",
-        "content": "ok\nvậy t dky luôn"
+        "content": "ok\nvậy t đăng kí luôn"
       }
     ]
   },
@@ -6115,7 +6115,7 @@
       },
       {
         "role": "assistant",
-        "content": "khoảng 1-3 tr\ntùy loại"
+        "content": "khoảng 1-3 m\ntùy loại"
       },
       {
         "role": "user",
@@ -6364,11 +6364,11 @@
       },
       {
         "role": "user",
-        "content": "2h chiều mai\ndky online"
+        "content": "2h chiều mai\n đăng kí online"
       },
       {
         "role": "assistant",
-        "content": "oke\nm dky cho 2 người nha"
+        "content": "oke\nm đăng kí cho 2 người nha"
       },
       {
         "role": "user",
@@ -6711,7 +6711,7 @@
       },
       {
         "role": "assistant",
-        "content": "khoảng 20-25 tr\nkèm kit lens"
+        "content": "khoảng 20-25 m\nkèm kit lens"
       },
       {
         "role": "user",
@@ -6809,7 +6809,7 @@
       },
       {
         "role": "assistant",
-        "content": "1-2 tháng\nkhoảng 2-3 tr"
+        "content": "1-2 tháng\nkhoảng 2-3 m"
       },
       {
         "role": "user",
@@ -6854,7 +6854,7 @@
       },
       {
         "role": "user",
-        "content": "1-5 tr\ntùy hạng ghế"
+        "content": "1-5 m\ntùy hạng ghế"
       },
       {
         "role": "assistant",
@@ -6879,11 +6879,11 @@
       },
       {
         "role": "user",
-        "content": "t muốn dky gym"
+        "content": "t muốn đăng kí gym"
       },
       {
         "role": "assistant",
-        "content": "oke\ndky ở đâu"
+        "content": "oke\n đăng kí ở đâu"
       },
       {
         "role": "user",
@@ -6899,7 +6899,7 @@
       },
       {
         "role": "assistant",
-        "content": "dky 6 tháng đi\ntính ra rẻ hơn"
+        "content": "đăng kí 6 tháng đi\ntính ra rẻ hơn"
       },
       {
         "role": "user",
@@ -7005,7 +7005,7 @@
       },
       {
         "role": "assistant",
-        "content": "khoảng 22-25 tr\ntùy dung lượng"
+        "content": "khoảng 22-25 m\ntùy dung lượng"
       },
       {
         "role": "user",
@@ -7111,7 +7111,7 @@
       },
       {
         "role": "assistant",
-        "content": "khoảng 3-5 tr\ntùy khóa"
+        "content": "khoảng 3-5 m\ntùy khóa"
       }
     ]
   },
@@ -7201,7 +7201,7 @@
       },
       {
         "role": "assistant",
-        "content": "ngon\nkhoảng 5-6 tr"
+        "content": "ngon\nkhoảng 5-6 m"
       },
       {
         "role": "user",
@@ -7295,7 +7295,7 @@
       },
       {
         "role": "user",
-        "content": "khoảng 5-10 tr\ntùy model"
+        "content": "khoảng 5-10 m\ntùy model"
       },
       {
         "role": "assistant",
@@ -7405,7 +7405,7 @@
       },
       {
         "role": "assistant",
-        "content": "khoảng 2-3 tr/tháng\n8 buổi"
+        "content": "khoảng 2-3 m/tháng\n8 buổi"
       }
     ]
   },
@@ -7491,7 +7491,7 @@
       },
       {
         "role": "user",
-        "content": "khoảng 1-2 tr"
+        "content": "khoảng 1-2 m"
       },
       {
         "role": "assistant",
@@ -7687,7 +7687,7 @@
       },
       {
         "role": "user",
-        "content": "khoảng 3-4 tr"
+        "content": "khoảng 3-4 m"
       },
       {
         "role": "assistant",
@@ -7797,7 +7797,7 @@
       },
       {
         "role": "assistant",
-        "content": "khoảng 5-10 tr\ntùy khóa"
+        "content": "khoảng 5-10 m\ntùy khóa"
       }
     ]
   },
@@ -7883,7 +7883,7 @@
       },
       {
         "role": "user",
-        "content": "khoảng 3-5 tr\ntùy model"
+        "content": "khoảng 3-5 m\ntùy model"
       },
       {
         "role": "assistant",
@@ -8030,7 +8030,7 @@
       },
       {
         "role": "user",
-        "content": "khoảng 2-4 tr"
+        "content": "khoảng 2-4 m"
       },
       {
         "role": "assistant",
@@ -8169,7 +8169,7 @@
       },
       {
         "role": "user",
-        "content": "khoảng 2-5 tr\ntùy dung tích"
+        "content": "khoảng 2-5 m\ntùy dung tích"
       },
       {
         "role": "assistant",
@@ -8234,11 +8234,11 @@
       },
       {
         "role": "user",
-        "content": "cx oke\nt dky thử"
+        "content": "cx oke\nt đăng kí thử"
       },
       {
         "role": "assistant",
-        "content": "dc\nt cx muốn dky\ncùng đi k"
+        "content": "dc\nt cx muốn đăng kí\ncùng đi k"
       }
     ]
   },
@@ -8324,7 +8324,7 @@
       },
       {
         "role": "user",
-        "content": "khoảng 15-18 tr"
+        "content": "khoảng 15-18 m"
       },
       {
         "role": "assistant",
@@ -8434,7 +8434,7 @@
       },
       {
         "role": "assistant",
-        "content": "khoảng 10-20 tr\nkhá đắt"
+        "content": "khoảng 10-20 m\nkhá đắt"
       }
     ]
   },
@@ -8512,7 +8512,7 @@
       },
       {
         "role": "user",
-        "content": "khoảng 3-5 tr"
+        "content": "khoảng 3-5 m"
       },
       {
         "role": "assistant",
@@ -9010,7 +9010,7 @@
       },
       {
         "role": "user",
-        "content": "khoảng 3-7 tr\ntùy công suất"
+        "content": "khoảng 3-7 m\ntùy công suất"
       },
       {
         "role": "assistant",
@@ -9120,7 +9120,7 @@
       },
       {
         "role": "assistant",
-        "content": "khoảng 3-5 tr"
+        "content": "khoảng 3-5 m"
       }
     ]
   },
@@ -9206,7 +9206,7 @@
       },
       {
         "role": "user",
-        "content": "khoảng 8-12 tr"
+        "content": "khoảng 8-12 m"
       },
       {
         "role": "assistant",
@@ -9267,7 +9267,7 @@
       },
       {
         "role": "assistant",
-        "content": "khoảng 2-3 tr/tháng\n12 buổi"
+        "content": "khoảng 2-3 m/tháng\n12 buổi"
       }
     ]
   },
@@ -9353,7 +9353,7 @@
       },
       {
         "role": "user",
-        "content": "khoảng 5-10 tr\ntùy chất liệu"
+        "content": "khoảng 5-10 m\ntùy chất liệu"
       },
       {
         "role": "assistant",
@@ -9508,7 +9508,7 @@
       },
       {
         "role": "user",
-        "content": "khoảng 10-15 tr"
+        "content": "khoảng 10-15 m"
       },
       {
         "role": "assistant",
@@ -9647,7 +9647,7 @@
       },
       {
         "role": "user",
-        "content": "khoảng 15-20 tr"
+        "content": "khoảng 15-20 m"
       },
       {
         "role": "assistant",
@@ -9708,7 +9708,7 @@
       },
       {
         "role": "assistant",
-        "content": "khoảng 2-3 tr/tháng"
+        "content": "khoảng 2-3 m/tháng"
       }
     ]
   },
@@ -9802,7 +9802,7 @@
       },
       {
         "role": "user",
-        "content": "khoảng 10-15 tr"
+        "content": "khoảng 10-15 m"
       },
       {
         "role": "assistant",
@@ -9855,7 +9855,7 @@
       },
       {
         "role": "assistant",
-        "content": "khoảng 5-8 tr"
+        "content": "khoảng 5-8 m"
       }
     ]
   },
@@ -9949,7 +9949,7 @@
       },
       {
         "role": "user",
-        "content": "khoảng 15-20 tr"
+        "content": "khoảng 15-20 m"
       },
       {
         "role": "assistant",
@@ -10088,7 +10088,7 @@
       },
       {
         "role": "user",
-        "content": "khoảng 30-50 tr"
+        "content": "khoảng 30-50 m"
       },
       {
         "role": "assistant",
@@ -10149,7 +10149,7 @@
       },
       {
         "role": "assistant",
-        "content": "khoảng 2-3 tr"
+        "content": "khoảng 2-3 m"
       }
     ]
   },
@@ -10227,7 +10227,7 @@
       },
       {
         "role": "user",
-        "content": "khoảng 12-15 tr"
+        "content": "khoảng 12-15 m"
       },
       {
         "role": "assistant",
@@ -10382,7 +10382,7 @@
       },
       {
         "role": "user",
-        "content": "khoảng 10-15 tr"
+        "content": "khoảng 10-15 m"
       },
       {
         "role": "assistant",
@@ -10443,7 +10443,7 @@
       },
       {
         "role": "assistant",
-        "content": "khá đắt\nkhoảng 50-100 tr/năm"
+        "content": "khá đắt\nkhoảng 50-100 m/năm"
       }
     ]
   },
@@ -10521,7 +10521,7 @@
       },
       {
         "role": "user",
-        "content": "khoảng 3-6 tr\ntùy model"
+        "content": "khoảng 3-6 m\ntùy model"
       },
       {
         "role": "assistant",
@@ -10590,7 +10590,7 @@
       },
       {
         "role": "assistant",
-        "content": "khoảng 5-8 tr"
+        "content": "khoảng 5-8 m"
       }
     ]
   },
@@ -10668,7 +10668,7 @@
       },
       {
         "role": "user",
-        "content": "khoảng 10-12 tr"
+        "content": "khoảng 10-12 m"
       },
       {
         "role": "assistant",
@@ -10737,7 +10737,7 @@
       },
       {
         "role": "assistant",
-        "content": "khoảng 8-12 tr"
+        "content": "khoảng 8-12 m"
       }
     ]
   },
@@ -10823,7 +10823,7 @@
       },
       {
         "role": "user",
-        "content": "khoảng 10-12 tr"
+        "content": "khoảng 10-12 m"
       },
       {
         "role": "assistant",
@@ -10884,7 +10884,7 @@
       },
       {
         "role": "assistant",
-        "content": "khoảng 3-5 tr"
+        "content": "khoảng 3-5 m"
       }
     ]
   },
@@ -10970,7 +10970,7 @@
       },
       {
         "role": "user",
-        "content": "khoảng 5-7 tr"
+        "content": "khoảng 5-7 m"
       },
       {
         "role": "assistant",
@@ -11117,7 +11117,7 @@
       },
       {
         "role": "user",
-        "content": "khoảng 15-25 tr"
+        "content": "khoảng 15-25 m"
       },
       {
         "role": "assistant",
@@ -11178,7 +11178,7 @@
       },
       {
         "role": "assistant",
-        "content": "khoảng 3-5 tr"
+        "content": "khoảng 3-5 m"
       }
     ]
   },
@@ -11264,7 +11264,7 @@
       },
       {
         "role": "user",
-        "content": "khoảng 3-5 tr"
+        "content": "khoảng 3-5 m"
       },
       {
         "role": "assistant",
@@ -11325,7 +11325,7 @@
       },
       {
         "role": "assistant",
-        "content": "khoảng 2-3 tr"
+        "content": "khoảng 2-3 m"
       }
     ]
   },
@@ -11464,7 +11464,7 @@
       },
       {
         "role": "assistant",
-        "content": "khoảng 2-3 tr/tháng"
+        "content": "khoảng 2-3 m/tháng"
       },
       {
         "role": "user",
@@ -11558,7 +11558,7 @@
       },
       {
         "role": "user",
-        "content": "khoảng 3-4 tr"
+        "content": "khoảng 3-4 m"
       },
       {
         "role": "assistant",
@@ -11615,7 +11615,7 @@
       },
       {
         "role": "user",
-        "content": "cx oke\nt dky thử"
+        "content": "cx oke\nt đăng kí thử"
       },
       {
         "role": "assistant",
@@ -11697,7 +11697,7 @@
       },
       {
         "role": "user",
-        "content": "khoảng 1-2 tr"
+        "content": "khoảng 1-2 m"
       },
       {
         "role": "assistant",
@@ -11766,7 +11766,7 @@
       },
       {
         "role": "assistant",
-        "content": "khoảng 3-5 tr"
+        "content": "khoảng 3-5 m"
       }
     ]
   },
@@ -12011,7 +12011,7 @@
       },
       {
         "role": "assistant",
-        "content": "khoảng 5-8 tr"
+        "content": "khoảng 5-8 m"
       }
     ]
   },
@@ -12097,7 +12097,7 @@
       },
       {
         "role": "user",
-        "content": "khoảng 4-7 tr"
+        "content": "khoảng 4-7 m"
       },
       {
         "role": "assistant",
@@ -12150,11 +12150,11 @@
       },
       {
         "role": "assistant",
-        "content": "khoảng 3-5 tr"
+        "content": "khoảng 3-5 m"
       },
       {
         "role": "user",
-        "content": "cx oke\nt dky thử"
+        "content": "cx oke\nt đăng kí thử"
       },
       {
         "role": "assistant",
@@ -12244,7 +12244,7 @@
       },
       {
         "role": "user",
-        "content": "khoảng 1-3 tr\ntùy công suất"
+        "content": "khoảng 1-3 m\ntùy công suất"
       },
       {
         "role": "assistant",
@@ -12391,7 +12391,7 @@
       },
       {
         "role": "user",
-        "content": "khoảng 2-3 tr"
+        "content": "khoảng 2-3 m"
       },
       {
         "role": "assistant",
@@ -12452,7 +12452,7 @@
       },
       {
         "role": "assistant",
-        "content": "khoảng 8-12 tr"
+        "content": "khoảng 8-12 m"
       }
     ]
   },
@@ -12538,7 +12538,7 @@
       },
       {
         "role": "user",
-        "content": "khoảng 8-15 tr"
+        "content": "khoảng 8-15 m"
       },
       {
         "role": "assistant",
@@ -12599,7 +12599,7 @@
       },
       {
         "role": "assistant",
-        "content": "khoảng 10-15 tr"
+        "content": "khoảng 10-15 m"
       }
     ]
   },
@@ -12677,7 +12677,7 @@
       },
       {
         "role": "user",
-        "content": "khoảng 30-50 tr"
+        "content": "khoảng 30-50 m"
       },
       {
         "role": "assistant",
@@ -12746,7 +12746,7 @@
       },
       {
         "role": "assistant",
-        "content": "khoảng 10-20 tr"
+        "content": "khoảng 10-20 m"
       }
     ]
   },
@@ -12832,7 +12832,7 @@
       },
       {
         "role": "user",
-        "content": "khoảng 3-5 tr"
+        "content": "khoảng 3-5 m"
       },
       {
         "role": "assistant",
@@ -12893,7 +12893,7 @@
       },
       {
         "role": "assistant",
-        "content": "khoảng 8-10 tr"
+        "content": "khoảng 8-10 m"
       }
     ]
   },
@@ -12979,7 +12979,7 @@
       },
       {
         "role": "user",
-        "content": "khoảng 5-8 tr"
+        "content": "khoảng 5-8 m"
       },
       {
         "role": "assistant",
@@ -13012,7 +13012,7 @@
       },
       {
         "role": "user",
-        "content": "uh\nvài trăm tr"
+        "content": "uh\nvài trăm m"
       },
       {
         "role": "assistant",
@@ -13118,7 +13118,7 @@
       },
       {
         "role": "user",
-        "content": "khoảng 3-4 tr"
+        "content": "khoảng 3-4 m"
       },
       {
         "role": "assistant",
@@ -13187,7 +13187,7 @@
       },
       {
         "role": "assistant",
-        "content": "khá đắt\nkhoảng 30-50 tr"
+        "content": "khá đắt\nkhoảng 30-50 m"
       }
     ]
   },
@@ -13265,7 +13265,7 @@
       },
       {
         "role": "user",
-        "content": "khoảng 1-2 tr"
+        "content": "khoảng 1-2 m"
       },
       {
         "role": "assistant",
@@ -13334,7 +13334,7 @@
       },
       {
         "role": "assistant",
-        "content": "khoảng 10-20 tr"
+        "content": "khoảng 10-20 m"
       }
     ]
   },
@@ -13420,7 +13420,7 @@
       },
       {
         "role": "user",
-        "content": "khoảng 40-50 tr"
+        "content": "khoảng 40-50 m"
       },
       {
         "role": "assistant",
@@ -13559,7 +13559,7 @@
       },
       {
         "role": "user",
-        "content": "khoảng 2-3 tr"
+        "content": "khoảng 2-3 m"
       },
       {
         "role": "assistant",
@@ -13628,7 +13628,7 @@
       },
       {
         "role": "assistant",
-        "content": "khoảng 3-5 tr/tháng"
+        "content": "khoảng 3-5 m/tháng"
       }
     ]
   },
@@ -13775,7 +13775,7 @@
       },
       {
         "role": "assistant",
-        "content": "đắt lắm\nhàng chục tr/năm"
+        "content": "đắt lắm\nhàng chục m/năm"
       }
     ]
   },
@@ -13861,7 +13861,7 @@
       },
       {
         "role": "user",
-        "content": "khoảng 8-12 tr"
+        "content": "khoảng 8-12 m"
       },
       {
         "role": "assistant",
@@ -13922,7 +13922,7 @@
       },
       {
         "role": "assistant",
-        "content": "khoảng 5-10 tr"
+        "content": "khoảng 5-10 m"
       }
     ]
   },
@@ -14008,7 +14008,7 @@
       },
       {
         "role": "user",
-        "content": "khoảng 1-2 tr"
+        "content": "khoảng 1-2 m"
       },
       {
         "role": "assistant",
@@ -14159,7 +14159,7 @@
       },
       {
         "role": "assistant",
-        "content": "khoảng 3-7 tr\ntùy loại"
+        "content": "khoảng 3-7 m\ntùy loại"
       },
       {
         "role": "user",
@@ -14294,7 +14294,7 @@
       },
       {
         "role": "user",
-        "content": "khoảng 10-15 tr"
+        "content": "khoảng 10-15 m"
       },
       {
         "role": "assistant",
@@ -14363,7 +14363,7 @@
       },
       {
         "role": "assistant",
-        "content": "khoảng 20-40 tr"
+        "content": "khoảng 20-40 m"
       }
     ]
   },
@@ -14449,7 +14449,7 @@
       },
       {
         "role": "user",
-        "content": "khoảng 10-20 tr"
+        "content": "khoảng 10-20 m"
       },
       {
         "role": "assistant",
@@ -14510,7 +14510,7 @@
       },
       {
         "role": "assistant",
-        "content": "khoảng 8-15 tr"
+        "content": "khoảng 8-15 m"
       }
     ]
   },
@@ -14588,7 +14588,7 @@
       },
       {
         "role": "user",
-        "content": "khoảng 20-30 tr"
+        "content": "khoảng 20-30 m"
       },
       {
         "role": "assistant",
@@ -14657,7 +14657,7 @@
       },
       {
         "role": "assistant",
-        "content": "khoảng 5-15 tr\ntùy cấp độ"
+        "content": "khoảng 5-15 m\ntùy cấp độ"
       }
     ]
   },
@@ -14743,7 +14743,7 @@
       },
       {
         "role": "user",
-        "content": "khoảng 3-8 tr\ntùy loại"
+        "content": "khoảng 3-8 m\ntùy loại"
       },
       {
         "role": "assistant",
@@ -14804,7 +14804,7 @@
       },
       {
         "role": "assistant",
-        "content": "khoảng 8-12 tr"
+        "content": "khoảng 8-12 m"
       }
     ]
   },
@@ -14890,7 +14890,7 @@
       },
       {
         "role": "user",
-        "content": "khoảng 15-25 tr"
+        "content": "khoảng 15-25 m"
       },
       {
         "role": "assistant",
@@ -15037,7 +15037,7 @@
       },
       {
         "role": "user",
-        "content": "khoảng 1-2 tr"
+        "content": "khoảng 1-2 m"
       },
       {
         "role": "assistant",
@@ -15098,7 +15098,7 @@
       },
       {
         "role": "assistant",
-        "content": "khoảng 10-20 tr"
+        "content": "khoảng 10-20 m"
       }
     ]
   },
@@ -15176,7 +15176,7 @@
       },
       {
         "role": "user",
-        "content": "khoảng 8-12 tr"
+        "content": "khoảng 8-12 m"
       },
       {
         "role": "assistant",
@@ -15245,7 +15245,7 @@
       },
       {
         "role": "assistant",
-        "content": "khoảng 8-15 tr"
+        "content": "khoảng 8-15 m"
       }
     ]
   },
@@ -15392,7 +15392,7 @@
       },
       {
         "role": "assistant",
-        "content": "khoảng 3-5 tr"
+        "content": "khoảng 3-5 m"
       }
     ]
   },
@@ -15470,7 +15470,7 @@
       },
       {
         "role": "user",
-        "content": "khoảng 25-35 tr\ntùy dung lượng"
+        "content": "khoảng 25-35 m\ntùy dung lượng"
       },
       {
         "role": "assistant",
@@ -15625,7 +15625,7 @@
       },
       {
         "role": "user",
-        "content": "khoảng 10-15 tr\ntùy dung tích"
+        "content": "khoảng 10-15 m\ntùy dung tích"
       },
       {
         "role": "assistant",
@@ -15686,7 +15686,7 @@
       },
       {
         "role": "assistant",
-        "content": "khoảng 5-10 tr"
+        "content": "khoảng 5-10 m"
       }
     ]
   },
@@ -15764,7 +15764,7 @@
       },
       {
         "role": "user",
-        "content": "khoảng 5-10 tr\ntùy loại"
+        "content": "khoảng 5-10 m\ntùy loại"
       },
       {
         "role": "assistant",
@@ -15911,7 +15911,7 @@
       },
       {
         "role": "user",
-        "content": "khoảng 5-10 tr"
+        "content": "khoảng 5-10 m"
       },
       {
         "role": "assistant",
@@ -15980,7 +15980,7 @@
       },
       {
         "role": "assistant",
-        "content": "khoảng 5-10 tr"
+        "content": "khoảng 5-10 m"
       }
     ]
   },
@@ -16119,7 +16119,7 @@
       },
       {
         "role": "assistant",
-        "content": "khoảng 3-5 tr"
+        "content": "khoảng 3-5 m"
       },
       {
         "role": "user",
@@ -16205,7 +16205,7 @@
       },
       {
         "role": "user",
-        "content": "khoảng 15-30 tr\ntùy loại"
+        "content": "khoảng 15-30 m\ntùy loại"
       },
       {
         "role": "assistant",
@@ -16274,7 +16274,7 @@
       },
       {
         "role": "assistant",
-        "content": "khoảng 2-3 tr"
+        "content": "khoảng 2-3 m"
       }
     ]
   },
@@ -16352,7 +16352,7 @@
       },
       {
         "role": "user",
-        "content": "khoảng 2-5 tr\ntùy loại"
+        "content": "khoảng 2-5 m\ntùy loại"
       },
       {
         "role": "assistant",
@@ -16421,7 +16421,7 @@
       },
       {
         "role": "assistant",
-        "content": "khoảng 10-20 tr"
+        "content": "khoảng 10-20 m"
       }
     ]
   },
@@ -16499,7 +16499,7 @@
       },
       {
         "role": "user",
-        "content": "khoảng 30-80 tr\ntùy loại"
+        "content": "khoảng 30-80 m\ntùy loại"
       },
       {
         "role": "assistant",
@@ -16568,7 +16568,7 @@
       },
       {
         "role": "assistant",
-        "content": "khoảng 10-20 tr"
+        "content": "khoảng 10-20 m"
       }
     ]
   },
@@ -16654,7 +16654,7 @@
       },
       {
         "role": "user",
-        "content": "khoảng 10-15 tr"
+        "content": "khoảng 10-15 m"
       },
       {
         "role": "assistant",
@@ -16969,7 +16969,7 @@
       },
       {
         "role": "assistant",
-        "content": "t cx vậy\nvẫn ở cty cũ"
+        "content": "t cx vậy\nvẫn ở công ty cũ"
       },
       {
         "role": "user",
@@ -18003,7 +18003,7 @@
       },
       {
         "role": "user",
-        "content": "m ơi\nt k thể đến cty hôm nay"
+        "content": "m ơi\nt k thể đến công ty hôm nay"
       },
       {
         "role": "assistant",
@@ -18668,7 +18668,7 @@
       },
       {
         "role": "assistant",
-        "content": "chx bt\nđể anh xem đã\nnếu nặng thì vài tr"
+        "content": "chx bt\nđể anh xem đã\nnếu nặng thì vài m"
       },
       {
         "role": "user",
@@ -20581,7 +20581,7 @@
       },
       {
         "role": "user",
-        "content": "ok\nem dky"
+        "content": "ok\nem đăng kí"
       },
       {
         "role": "assistant",
@@ -20672,7 +20672,7 @@
       },
       {
         "role": "user",
-        "content": "em ơi\nem muốn dky gói data"
+        "content": "em ơi\nem muốn đăng kí gói data"
       },
       {
         "role": "assistant",
@@ -20688,7 +20688,7 @@
       },
       {
         "role": "user",
-        "content": "ok\nvậy dky giúp anh"
+        "content": "ok\nvậy đăng kí giúp anh"
       },
       {
         "role": "assistant",
@@ -20700,7 +20700,7 @@
       },
       {
         "role": "assistant",
-        "content": "dạ\nem dky xong r\nanh sử dụng từ bây giờ"
+        "content": "dạ\nem đăng kí xong r\nanh sử dụng từ bây giờ"
       }
     ]
   },
@@ -20983,7 +20983,7 @@
       },
       {
         "role": "assistant",
-        "content": "khoảng 12-15 tr\ntùy model"
+        "content": "khoảng 12-15 m\ntùy model"
       },
       {
         "role": "user",
@@ -21163,7 +21163,7 @@
       },
       {
         "role": "assistant",
-        "content": "tùy độ tuổi và mức bảo hiểm\nkhoảng 10-20 tr/năm"
+        "content": "tùy độ tuổi và mức bảo hiểm\nkhoảng 10-20 m/năm"
       },
       {
         "role": "user",
@@ -23609,7 +23609,7 @@
       },
       {
         "role": "assistant",
-        "content": "sợ chứ\nnhma sức khỏe quan trọng hơn\nnếu cty k care thì quit thôi"
+        "content": "sợ chứ\nnhma sức khỏe quan trọng hơn\nnếu công ty k care thì quit thôi"
       },
       {
         "role": "user",
@@ -24488,7 +24488,7 @@
       },
       {
         "role": "user",
-        "content": "t đã check lại nhiều lần\nđây là fraud\nhàng tháng mất hàng trăm tr"
+        "content": "t đã check lại nhiều lần\nđây là fraud\nhàng tháng mất hàng trăm m"
       },
       {
         "role": "assistant",
@@ -24671,7 +24671,7 @@
       },
       {
         "role": "user",
-        "content": "m\nt thấy m lấy tiền trong cty à"
+        "content": "m\nt thấy m lấy tiền trong công ty à"
       },
       {
         "role": "assistant",
@@ -24691,7 +24691,7 @@
       },
       {
         "role": "assistant",
-        "content": "...50 tr\nt cần gấp\ncon t ốm\nt k có cách nào khác"
+        "content": "...50 m\nt cần gấp\ncon t ốm\nt k có cách nào khác"
       },
       {
         "role": "user",
@@ -25272,11 +25272,11 @@
       },
       {
         "role": "assistant",
-        "content": "...200 tr\nem nợ nhiều người"
+        "content": "...200 m\nem nợ nhiều người"
       },
       {
         "role": "user",
-        "content": "trời\n200 tr\nem nghiện r\nem cần help\nchị sẽ nói với anh và mẹ"
+        "content": "trời\n200 m\nem nghiện r\nem cần help\nchị sẽ nói với anh và mẹ"
       },
       {
         "role": "assistant",
@@ -25447,7 +25447,7 @@
       },
       {
         "role": "user",
-        "content": "cty mình\nđang dump chất thải độc ra sông\nillegal\nvà nguy hiểm vcl"
+        "content":"công ty mình\nđang dump chất thải độc ra sông\nillegal\nvà nguy hiểm vcl"
       },
       {
         "role": "assistant",
@@ -26121,11 +26121,11 @@
       },
       {
         "role": "user",
-        "content": "anh bt\nanh cx k muốn\nnhma debt quá nhiều\n500 tr"
+        "content": "anh bt\nanh cx k muốn\nnhma debt quá nhiều\n500 m"
       },
       {
         "role": "assistant",
-        "content": "vcl\n500 tr\nvậy lm sao bây giờ"
+        "content": "vcl\n500 m\nvậy lm sao bây giờ"
       },
       {
         "role": "user",
@@ -26178,7 +26178,7 @@
       },
       {
         "role": "user",
-        "content": "nhma nếu t testify\nt sẽ against cty cũ\ncó thể ảnh hưởng career t\nindustry nhỏ lắm"
+        "content": "nhma nếu t testify\nt sẽ against công ty cũ\ncó thể ảnh hưởng career t\nindustry nhỏ lắm"
       },
       {
         "role": "assistant",
@@ -26231,7 +26231,7 @@
       },
       {
         "role": "user",
-        "content": "tiết kiệm\n300 tr\nanh chuyển đi đâu"
+        "content": "tiết kiệm\n300 m\nanh chuyển đi đâu"
       },
       {
         "role": "assistant",
@@ -26259,11 +26259,11 @@
       },
       {
         "role": "assistant",
-        "content": "...anh nợ thêm 100 tr\nvay nặng lãi"
+        "content": "...anh nợ thêm 100 m\nvay nặng lãi"
       },
       {
         "role": "user",
-        "content": "trời\n100 tr nữa\nvậy tổng 400 tr\nmình phá sản r\nanh phá hoại gia đình"
+        "content": "trời\n100 m nữa\nvậy tổng 400 m\nmình phá sản r\nanh phá hoại gia đình"
       },
       {
         "role": "assistant",
@@ -28866,7 +28866,7 @@
       },
       {
         "role": "user",
-        "content": "nó để trên bàn\nt k cố ý\nnhma m\nm nợ 200 tr"
+        "content": "nó để trên bàn\nt k cố ý\nnhma m\nm nợ 200 m"
       },
       {
         "role": "assistant",
@@ -29061,7 +29061,7 @@
       },
       {
         "role": "user",
-        "content": "win\nanh mất 100 tr\ntiền học con\ngiờ con k thể đi học\nanh nghĩ sao"
+        "content": "win\nanh mất 100 m\ntiền học con\ngiờ con k thể đi học\nanh nghĩ sao"
       },
       {
         "role": "assistant",
@@ -30264,7 +30264,7 @@
       },
       {
         "role": "user",
-        "content": "sao bill cao vậy anh\n5 tr à"
+        "content": "sao bill cao vậy anh\n5 m à"
       },
       {
         "role": "assistant",
@@ -30272,7 +30272,7 @@
       },
       {
         "role": "user",
-        "content": "nhma anh quote 3 tr\ngiờ 5 tr\ngấp đôi"
+        "content": "nhma anh quote 3 m\ngiờ 5 m\ngấp đôi"
       },
       {
         "role": "assistant",
@@ -30675,7 +30675,7 @@
       },
       {
         "role": "user",
-        "content": "m nợ 5 tr\n500k/tháng là 10 tháng\nlâu vcl\n1tr/tháng đi"
+        "content": "m nợ 5 m\n500k/tháng là 10 tháng\nlâu vcl\n1tr/tháng đi"
       },
       {
         "role": "assistant",
@@ -33851,7 +33851,7 @@
       },
       {
         "role": "user",
-        "content": "anh ơi\ntôi muốn donate\n100 tr"
+        "content": "anh ơi\ntôi muốn donate\n100 m"
       },
       {
         "role": "assistant",
@@ -34770,7 +34770,7 @@
       },
       {
         "role": "user",
-        "content": "100 tr\ne k tin được"
+        "content": "100 m\ne k tin được"
       },
       {
         "role": "assistant",
@@ -34778,7 +34778,7 @@
       },
       {
         "role": "user",
-        "content": "e nhớ chứ\nmua của chị hoài mà\nvậy chị xé vé\ne cho chị 5 tr"
+        "content": "e nhớ chứ\nmua của chị hoài mà\nvậy chị xé vé\ne cho chị 5 m"
       },
       {
         "role": "assistant",
@@ -34807,7 +34807,7 @@
       },
       {
         "role": "user",
-        "content": "a ơi\ns đắt vậy\n3 tr à"
+        "content": "a ơi\ns đắt vậy\n3 m à"
       },
       {
         "role": "assistant",
@@ -35862,7 +35862,7 @@
       },
       {
         "role": "assistant",
-        "content": "m thử\nhọc online\ntrên app\nhoặc youtube\nmiễn phí\ntrước đã\nnếu thích\nthì dky\nlớp"
+        "content": "m thử\nhọc online\ntrên app\nhoặc youtube\nmiễn phí\ntrước đã\nnếu thích\nthì đăng kí\nlớp"
       },
       {
         "role": "user",
@@ -37410,7 +37410,7 @@
       },
       {
         "role": "user",
-        "content": "t mới\ndky\ngym\nnhma k biết\ntập sao"
+        "content": "t mới\n đăng kí\ngym\nnhma k biết\ntập sao"
       },
       {
         "role": "assistant",
@@ -40619,7 +40619,7 @@
       },
       {
         "role": "user",
-        "content": "em tính r\nkhoảng 4-5 tr\nem sẽ lm thêm"
+        "content": "em tính r\nkhoảng 4-5 m\nem sẽ lm thêm"
       },
       {
         "role": "assistant",
@@ -40709,7 +40709,7 @@
       },
       {
         "role": "user",
-        "content": "em đầu tư 5 tr\nsau đó rủ ng khác tham gia\nem sẽ đc hoa hồng"
+        "content": "em đầu tư 5 m\nsau đó rủ ng khác tham gia\nem sẽ đc hoa hồng"
       },
       {
         "role": "assistant",
@@ -40725,7 +40725,7 @@
       },
       {
         "role": "user",
-        "content": "đóng r\n5 tr\nvà đang rủ bạn bè"
+        "content": "đóng r\n5 m\nvà đang rủ bạn bè"
       },
       {
         "role": "assistant",
@@ -40737,7 +40737,7 @@
       },
       {
         "role": "assistant",
-        "content": "giàu cái đm\nchỉ có ng tổ chức mới giàu\nem bị lừa r\ncoi như mất 5 tr\nhọc kinh nghiệm\nđừng rủ ng khác\nko thì em sẽ bị kiện"
+        "content": "giàu cái đm\nchỉ có ng tổ chức mới giàu\nem bị lừa r\ncoi như mất 5 m\nhọc kinh nghiệm\nđừng rủ ng khác\nko thì em sẽ bị kiện"
       }
     ]
   },
@@ -41093,7 +41093,7 @@
       },
       {
         "role": "user",
-        "content": "anh\nem nợ 50 tr r"
+        "content": "anh\nem nợ 50 m r"
       },
       {
         "role": "assistant",
@@ -41599,7 +41599,7 @@
       },
       {
         "role": "user",
-        "content": "ảnh em ko mặc áo\nnó đòi 10 tr"
+        "content": "ảnh em ko mặc áo\nnó đòi 10 m"
       },
       {
         "role": "assistant",
@@ -41689,11 +41689,11 @@
       },
       {
         "role": "user",
-        "content": "em stream đc\ntầm 500 người\nvà kiếm đc 5 tr tháng"
+        "content": "em stream đc\ntầm 500 người\nvà kiếm đc 5 m tháng"
       },
       {
         "role": "assistant",
-        "content": "5 tr à\nem nghĩ đủ sống ko\nvà nếu stream ko còn hot\nem sẽ s"
+        "content": "5 m à\nem nghĩ đủ sống ko\nvà nếu stream ko còn hot\nem sẽ s"
       },
       {
         "role": "user",
@@ -41851,11 +41851,11 @@
       },
       {
         "role": "user",
-        "content": "em đã liên hệ 1 pet shop\ngiá 8 tr\nđã tiêm phòng"
+        "content": "em đã liên hệ 1 pet shop\ngiá 8 m\nđã tiêm phòng"
       },
       {
         "role": "assistant",
-        "content": "8 tr là hợp lý\nnhma chị nhắc em\nchi phí nuôi hàng tháng\ncũng tầm 1-2 tr\nvì phải mua pate\ncát vệ sinh\nvà khám bác sĩ định kỳ"
+        "content": "8 m là hợp lý\nnhma chị nhắc em\nchi phí nuôi hàng tháng\ncũng tầm 1-2 m\nvì phải mua pate\ncát vệ sinh\nvà khám bác sĩ định kỳ"
       },
       {
         "role": "user",
@@ -41896,11 +41896,11 @@
       },
       {
         "role": "assistant",
-        "content": "thật à\nvậy đúng là nên tập\nnhma m đã dky gym chx\nhay định tập nhà"
+        "content": "thật à\nvậy đúng là nên tập\nnhma m đã đăng kí gym chx\nhay định tập nhà"
       },
       {
         "role": "user",
-        "content": "chx bt dky đâu\nm có recommend ko"
+        "content": "chx bt đăng kí đâu\nm có recommend ko"
       },
       {
         "role": "assistant",
@@ -42285,7 +42285,7 @@
       },
       {
         "role": "assistant",
-        "content": "mua đàn cho newbie thôi\nyamaha c40\nhoặc cordoba c3m\ntầm 2-3 tr\nvừa túi tiền mà chất lượng ok"
+        "content": "mua đàn cho newbie thôi\nyamaha c40\nhoặc cordoba c3m\ntầm 2-3 m\nvừa túi tiền mà chất lượng ok"
       },
       {
         "role": "user",
@@ -43520,7 +43520,7 @@
       },
       {
         "role": "assistant",
-        "content": "tùy\nnếu tiết kiệm\ntầm 5-7 tr/ng\nsudah đủ ăn ở xăng"
+        "content": "tùy\nnếu tiết kiệm\ntầm 5-7 m/ng\nsudah đủ ăn ở xăng"
       },
       {
         "role": "user",
