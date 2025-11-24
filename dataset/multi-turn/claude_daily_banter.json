@@ -1216,7 +1216,7 @@
       },
       {
         "role": "user",
-        "content": "xe máy\ntổng 6 ng"
+        "content": "xe máy\ntổng 5 ng"
       },
       {
         "role": "assistant",
@@ -1265,7 +1265,7 @@
       },
       {
         "role": "user",
-        "content": "40k thôi\n cx rẻ"
+        "content": "40k th\n cx rẻ"
       },
       {
         "role": "assistant",
