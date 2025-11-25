@@ -18964,7 +18964,7 @@
     "messages": [
       {
         "role": "system",
-        "content": "Bạn là teammate trong game, đang blame sau trận thua."
+        "content": "Bạn là teammate trong game, đang trách sau trận thua."
       },
       {
         "role": "user",
@@ -18980,7 +18980,7 @@
       },
       {
         "role": "assistant",
-        "content": "uh\nt sẽ cẩn thận hơn\nnhma đừng blame t 1 mình"
+        "content": "uh\nt sẽ cẩn thận hơn\nnhma đừng trách t 1 mình"
       },
       {
         "role": "user",
@@ -23319,8 +23319,8 @@
         "content": "k sao\nvậy m thì sao"
       },
       {
-        "role": "assistant",
-        "content": "t cx single\nk ai hợp như..."
+        "role": "assistant",     
+        "content": "t cx FA\nk ai hợp như..."
       },
       {
         "role": "user",
@@ -24971,7 +24971,7 @@
       },
       {
         "role": "user",
-        "content": "sai lầm\nanh ngủ với người khác là sai lầm\nanh nói dối em mỗi ngày là sai lầm\nđây k phải sai lầm\nđây là choice"
+        "content": "sai lầm\nanh ngủ với người khác là sai lầm\nanh nói dối em mỗi ngày là sai lầm\nđây k phải sai lầm\nđây là lựa chọn"
       },
       {
         "role": "assistant",
@@ -25138,7 +25138,7 @@
       },
       {
         "role": "user",
-        "content": "uh đó\ns m k admit\nm để t bị blame"
+        "content": "uh đó\ns m k admit\nm để t bị trách"
       },
       {
         "role": "assistant",
@@ -25223,7 +25223,7 @@
       },
       {
         "role": "user",
-        "content": "t k có choice\nband cần commitment\nif m k ready\nt hiểu\nnhma t phải move on"
+        "content": "t k có lựa chọn\nband cần commitment\nif m k ready\nt hiểu\nnhma t phải move on"
       },
       {
         "role": "assistant",
@@ -25345,11 +25345,11 @@
       },
       {
         "role": "user",
-        "content": "vậy nếu t single\nm sẽ quay lại à"
+        "content": "vậy nếu t FA\nm sẽ quay lại à"
       },
       {
         "role": "assistant",
-        "content": "nhma m k single\nt cx k\nvà mình đã break up vì lý do\nlý do đó vẫn còn"
+        "content": "nhma m k FA\nt cx k\nvà mình đã break up vì lý do\nlý do đó vẫn còn"
       },
       {
         "role": "user",
@@ -26182,7 +26182,7 @@
       },
       {
         "role": "assistant",
-        "content": "nhma đây là court\nm k có choice\nvà Mai cần m\nđể prove case"
+        "content": "nhma đây là court\nm k có lựa chọn\nvà Mai cần m\nđể prove case"
       },
       {
         "role": "user",
@@ -26336,7 +26336,7 @@
       },
       {
         "role": "user",
-        "content": "t k bt về cô ấy\nnhma t k thể blame rượu\nt phải responsible"
+        "content": "t k bt về cô ấy\nnhma t k thể trách rượu\nt phải responsible"
       },
       {
         "role": "assistant",
@@ -26422,51 +26422,51 @@
       },
       {
         "role": "assistant",
-        "content": "sao vậy\nt lm sai j à"
+        "content": "s v\nt lm sai j à"
       },
       {
         "role": "user",
-        "content": "k phải m sai\nnhma...company restructure\nt phải let m go"
+        "content": "k phải m sai\nnhma...company restructure\nt phải để m đi"
       },
       {
         "role": "assistant",
-        "content": "fire t à\ns lại t\nt lm việc tốt mà"
+        "content": "đuổi việc t à\ns lại t\nt lm việc tốt mà"
       },
       {
         "role": "user",
-        "content": "t bt\nnhma đây là layoff\ncắt giảm headcount\nt k có choice"
+        "content": "t bt\nnhma đây là layoff\ncắt giảm nhân sự\nt k có lựa chọn"
       },
       {
         "role": "assistant",
-        "content": "k có choice\nm là manager\nm quyết định ai bị fire\nm chọn t"
+        "content": "k có lựa chọn\nm là manager\nm quyết định ai bị đuổi\nm chọn t"
       },
       {
         "role": "user",
-        "content": "k phải t chọn\nđây là từ upper management\nt phải follow"
+        "content": "k phải t chọn\nđây là từ quản lí\nt phải tuân theo"
       },
       {
         "role": "assistant",
-        "content": "nhma m k fight cho t\nm k defend t\nm chỉ accept"
+        "content": "nhma m k đấu tranh cho t\nm k bảo vệ t\nm chỉ accept"
       },
       {
         "role": "user",
-        "content": "t đã fight\nt đã argue\nnhma họ k nghe\nt xin lỗi"
+        "content": "t đã cãi\nt đã phản đối\nnhma họ k nghe\nt xin lỗi"
       },
       {
         "role": "assistant",
-        "content": "xin lỗi\nm nói là bạn t\ngiờ m fire t\nt có vợ con\nt có mortgage\nm bt k"
+        "content": "xin lỗi\nm nói là bạn t\ngiờ m sa thải t\nt có vợ con\nt có mẹ già\nm bt k"
       },
       {
         "role": "user",
-        "content": "t bt\nt cảm thấy tệ vcl\nnhma đây là business\nt phải professional"
+        "content": "t bt\nt cảm thấy tệ vcl\nnhma đây là doanh nghiệp\nt phải chuyên nghiệp"
       },
       {
         "role": "assistant",
-        "content": "professional\nvậy friendship k có nghĩa j\nok\nt hiểu r"
+        "content": "chuyên nghiệp\nv tình bạn k có nghĩa j\nok\nt hiểu r"
       },
       {
         "role": "user",
-        "content": "m đừng vậy\nt sẽ giúp m\nreference letter\ngiới thiệu jobs\nt sẽ lm gì cx dc"
+        "content": "m đừng v\nt sẽ giúp m\nreference letter\ngiới thiệu vc\nt sẽ lm gì cx dc"
       },
       {
         "role": "assistant",
@@ -26483,7 +26483,7 @@
       },
       {
         "role": "user",
-        "content": "em\nchị phải nói với em sự thật"
+        "content": "em\nchị phải nói vs em sự thật"
       },
       {
         "role": "assistant",
@@ -26495,23 +26495,23 @@
       },
       {
         "role": "assistant",
-        "content": "k\nba k thể\nba yêu mẹ mà"
+        "content": "k\nba k thể\nba yêu mẹ mà?"
       },
       {
         "role": "user",
-        "content": "ba có affair\nđã 2 năm\nmẹ vừa phát hiện"
+        "content": "ba có bồ nhí\nđã 2 năm\nmẹ vừa phát hiện"
       },
       {
         "role": "assistant",
-        "content": "k\nk thể\nba luôn nói yêu gia đình\nvậy là ba nói dối\nsuốt 2 năm"
+        "content": "k\nk thể\nba luôn nói yêu gia đình mà\nvậy là ba nói dối...\nsuốt 2 năm"
       },
       {
         "role": "user",
-        "content": "uh\nchị cx k tin\nnhma mẹ có evidence\ntin nhắn\nhình ảnh"
+        "content": "uh\nchị cx k tin\nnhma mẹ có bằng chứng\ntin nhắn\nhình ảnh"
       },
       {
         "role": "assistant",
-        "content": "vậy người đó là ai\nem có quyền bt"
+        "content": "v ng đó là ai\nem có quyền bt"
       },
       {
         "role": "user",
@@ -26519,11 +26519,11 @@
       },
       {
         "role": "assistant",
-        "content": "vcl\nba bỏ mẹ vì cô ta à\nmẹ hy sinh cho ba suốt\nbây giờ ba phản bội"
+        "content": "vcl\nba bỏ mẹ vì cô ta à\nmẹ hy sinh cho ba suốt\nbây giờ ba phản bội?"
       },
       {
         "role": "user",
-        "content": "chị bt\nchị cx giận ba lắm\nnhma em đừng hate ba\nba vẫn là ba của em"
+        "content": "chị bt\nchị cx giận ba lắm\nnhma em đừng ghét ba\nba vẫn là ba của em"
       },
       {
         "role": "assistant",
@@ -26548,7 +26548,7 @@
       },
       {
         "role": "user",
-        "content": "uh\ngia đình em k chấp nhận anh\nbố em nói nếu em với anh\nem sẽ k còn là con"
+        "content": "uh\ngia đình em k chấp nhận anh\nbố em nói nếu em với anh...\nem sẽ k còn là con"
       },
       {
         "role": "assistant",
@@ -26560,7 +26560,7 @@
       },
       {
         "role": "assistant",
-        "content": "nhma em có thể mất anh à\nanh vậy k phải tất cả\nanh k quan trọng"
+        "content": "nhma em có thể mất anh à\nanh vậy k phải tất cả\nanh k quan trọng?"
       },
       {
         "role": "user",
@@ -26568,7 +26568,7 @@
       },
       {
         "role": "assistant",
-        "content": "anh k hiểu\nnếu bố em yêu em\nông ấy sẽ muốn em hạnh phúc\nk phải control em"
+        "content": "anh k hiểu\nnếu bố em yêu em\nông ấy sẽ muốn em hạnh phúc\nk phải điều khiển em"
       },
       {
         "role": "user",
@@ -26576,15 +26576,15 @@
       },
       {
         "role": "assistant",
-        "content": "đó là outdated\nem đủ 25 tuổi\nem có quyền chọn\nnhma em choose comfort\nthay vì fight cho mình"
+        "content": "đó là cổ hủ r\nem đủ 25 tuổi\nem có quyền chọn\nnhma em chọn im lặng\nthay vì phản kháng cho mình"
       },
       {
         "role": "user",
-        "content": "k phải comfort\nem sợ\nsợ mất gia đình\nem k mạnh như anh nghĩ"
+        "content": "k phải cam chịu\nem sợ\nsợ mất gia đình\nem k mạnh như anh nghĩ"
       },
       {
         "role": "assistant",
-        "content": "...anh hiểu r\nanh sẽ k hold em lại\nnhma em sẽ regret\nem sẽ nhớ anh"
+        "content": "...anh hiểu r\nanh sẽ k níu em lại\nnhma em đừng quên anh đấy\nem sẽ nhớ anh"
       },
       {
         "role": "user",
@@ -26605,11 +26605,11 @@
       },
       {
         "role": "assistant",
-        "content": "j vậy"
+        "content": "j v"
       },
       {
         "role": "user",
-        "content": "về...về Minh\nanh ấy ask t đi chơi"
+        "content": "về...về Minh\nanh ấy mời t đi chơi"
       },
       {
         "role": "assistant",
@@ -26617,7 +26617,7 @@
       },
       {
         "role": "user",
-        "content": "t bt\nnhma anh ấy k bt\nanh ấy nghĩ t single\nvà anh ấy thích t"
+        "content": "t bt\nnhma anh ấy k bt\nanh ấy nghĩ t FA\nvà anh ấy thích t"
       },
       {
         "role": "assistant",
@@ -26625,35 +26625,35 @@
       },
       {
         "role": "user",
-        "content": "t...t k từ chối\nt cx thích anh ấy\nt muốn chance"
+        "content": "t...t k từ chối\nt cx thích anh ấy\nt muốn có cơ hội"
       },
       {
         "role": "assistant",
-        "content": "m nói j vậy\nm bt t crush anh ấy bao lâu\nm steal crush t à"
+        "content": "m nói j v\nm bt t crush anh ấy bao lâu\nm cướp crush t à"
       },
       {
         "role": "user",
-        "content": "k phải steal\nm chx bao giờ confess\nm k có claim\nanh ấy single"
+        "content": "k phải cướp\nm chx bao giờ công khai\nm k có nhận\nanh ấy FA"
       },
       {
         "role": "assistant",
-        "content": "nhma m bt t thích\nm nên back off\nđó là bạn thân phải lm"
+        "content": "nhma m bt t thích\nm nên từ chối\nđó là bạn thân phải lm"
       },
       {
         "role": "user",
-        "content": "vậy t phải sacrifice feelings t\nvì m à\nm cx chx với anh ấy\ns t k dc quyền thử"
+        "content": "vậy t phải hy sinh cảm xúc của t\nvì m à\nm cx chx là j với anh ấy\ns t k dc quyền thử"
       },
       {
         "role": "assistant",
-        "content": "vì đó là girl code\nsister before mister\nm vi phạm"
+        "content": "vì đó là luật ngầm\nchị em là trên hết\nm vi phạm"
       },
       {
         "role": "user",
-        "content": "t xin lỗi\nnhma t k control dc feelings\nanh ấy choose t\nk phải lỗi t"
+        "content": "t xin lỗi\nnhma t k kiểm soát đc cảm xúc\nanh ấy chọn t\nk phải lỗi t"
       },
       {
         "role": "assistant",
-        "content": "k\nđúng là lỗi m\nm có thể nói k\nm chọn anh ấy hơn friendship\nok\nt hiểu r"
+        "content": "k\nđúng là lỗi m\nm có thể nói k\nm chọn anh ấy hơn tình bạn\nok\nt hiểu r"
       }
     ]
   },
@@ -26670,11 +26670,11 @@
       },
       {
         "role": "assistant",
-        "content": "sao vậy anh\nanh k thích anh ấy à"
+        "content": "s v anh\nanh k thích anh ấy à"
       },
       {
         "role": "user",
-        "content": "k phải thích hay k\nnhma anh ấy...anh ấy flirt với bạn gái anh"
+        "content": "k phải thích hay k\nnhma anh ấy...anh ấy tán tỉnh bạn gái anh"
       },
       {
         "role": "assistant",
@@ -26682,31 +26682,31 @@
       },
       {
         "role": "user",
-        "content": "anh k nhầm\nbạn gái anh nói\nanh ấy nhắn tin\nnói những điều inappropriate"
+        "content": "anh k nhầm\nbạn gái anh nói\nanh ấy nhắn tin\nnói những điều k bt"
       },
       {
         "role": "assistant",
-        "content": "có thể chị ấy hiểu lầm\nanh ấy chỉ friendly"
+        "content": "có thể chị ấy hiểu lầm\nanh ấy chỉ thiện ý"
       },
       {
         "role": "user",
-        "content": "k phải friendly\nanh ấy nói muốn gặp riêng\nnói chị ấy sexy\nđó k phải friendly"
+        "content": "k phải thiện ý\nanh ấy nói muốn gặp riêng\nnói chị ấy sexy\nđó k phải thiện ý"
       },
       {
         "role": "assistant",
-        "content": "...em k tin\nanh ấy yêu em mà\nanh ấy k thể"
+        "content": "...em k tin\nanh ấy yêu em mà?\nanh ấy k thể"
       },
       {
         "role": "user",
-        "content": "đây là tin nhắn\nem tự đọc\nanh chụp màn hình r"
+        "content": "đây là tin nhắn\nem tự đọc\nanh cap màn hình r"
       },
       {
         "role": "assistant",
-        "content": "...đây là tin nhắn anh ấy\nvậy anh ấy nói dối em\nem tin anh ấy vcl"
+        "content": "...đây là tin nhắn anh ấy\nvậy anh ấy nói dối em\nem tin anh ấy vcl mà"
       },
       {
         "role": "user",
-        "content": "em đừng blame bản thân\nanh ấy là người sai\nanh ấy k xứng với em"
+        "content": "em đừng trách bản thân\nanh ấy là người sai\nanh ấy k xứng với em"
       },
       {
         "role": "assistant",
@@ -27182,7 +27182,7 @@
       },
       {
         "role": "assistant",
-        "content": "nhma người thương m\nsẽ đau\nsẽ blame bản thân\nm nghĩ về bố mẹ m\nvề t\nmn sẽ devastated"
+        "content": "nhma người thương m\nsẽ đau\nsẽ trách bản thân\nm nghĩ về bố mẹ m\nvề t\nmn sẽ devastated"
       },
       {
         "role": "user",
@@ -27251,7 +27251,7 @@
       },
       {
         "role": "user",
-        "content": "em đừng\nđây là quyết định chị đã nghĩ kỹ\nchị k thay đổi\nem cứ support anh\nnhma đừng blame chị"
+        "content": "em đừng\nđây là quyết định chị đã nghĩ kỹ\nchị k thay đổi\nem cứ support anh\nnhma đừng trách chị"
       },
       {
         "role": "assistant",
@@ -27280,7 +27280,7 @@
       },
       {
         "role": "assistant",
-        "content": "ơ\nvậy là m steal credit t à"
+        "content": "ơ\nvậy là m cướp credit t à"
       },
       {
         "role": "user",
@@ -27516,7 +27516,7 @@
       },
       {
         "role": "user",
-        "content": "sếp lm sai\ntrong report\nnumbers sai\nnhma sếp muốn t nói là t lm\nđể sếp k bị blame"
+        "content": "sếp lm sai\ntrong report\nnumbers sai\nnhma sếp muốn t nói là t lm\nđể sếp k bị trách"
       },
       {
         "role": "assistant",
@@ -28219,7 +28219,7 @@
       },
       {
         "role": "assistant",
-        "content": "nhma anh ấy k thích t\nanh ấy thích m\nt k có claim\nm cứ dating\nt ok"
+        "content": "nhma anh ấy k thích t\nanh ấy thích m\nt k có nhận\nm cứ dating\nt ok"
       },
       {
         "role": "user",
@@ -28284,7 +28284,7 @@
       },
       {
         "role": "user",
-        "content": "đó là manipulation\nclassic abuser tactic\nnếu bạn ấy tự tử\nk phải lỗi em\nđó là choice bạn ấy"
+        "content": "đó là manipulation\nclassic abuser tactic\nnếu bạn ấy tự tử\nk phải lỗi em\nđó là lựa chọn bạn ấy"
       },
       {
         "role": "assistant",
@@ -28768,7 +28768,7 @@
       },
       {
         "role": "assistant",
-        "content": "vậy m phá hủy\n6 tháng work t\nt bị blame\nt almost bị fire\nvì m jealous"
+        "content": "vậy m phá hủy\n6 tháng work t\nt bị trách\nt almost bị fire\nvì m jealous"
       },
       {
         "role": "user",
@@ -29815,7 +29815,7 @@
       },
       {
         "role": "assistant",
-        "content": "giữ rock core\nnhma add catchy hooks\nproduction polished hơn\nvẫn authentic\nnhma radio-friendly"
+        "content": "giữ rock core\nnhma add catchy hooks\nproduction polished hơn\nvẫn authentic\nnhma radio-thiện ý"
       },
       {
         "role": "user",
@@ -32249,7 +32249,7 @@
       },
       {
         "role": "assistant",
-        "content": "when em notice\nđó là awareness\ngently bring back\nto breath\nk blame mình"
+        "content": "when em notice\nđó là awareness\ngently bring back\nto breath\nk trách mình"
       },
       {
         "role": "user",
@@ -32820,7 +32820,7 @@
       },
       {
         "role": "assistant",
-        "content": "một số điều k phải fault em\nnhma response là choice em\nem choose victim\nhoặc choose empowered"
+        "content": "một số điều k phải fault em\nnhma response là lựa chọn em\nem choose victim\nhoặc choose empowered"
       },
       {
         "role": "user",
@@ -32828,7 +32828,7 @@
       },
       {
         "role": "assistant",
-        "content": "anh hiểu\nnhma anh cx experienced\nhardships\nanh choose grow\nk phải blame"
+        "content": "anh hiểu\nnhma anh cx experienced\nhardships\nanh choose grow\nk phải trách"
       },
       {
         "role": "user",
@@ -33223,7 +33223,7 @@
       },
       {
         "role": "assistant",
-        "content": "wise choice\nvà quality of life\nbetter ở ngoại thành\nvới space hơn"
+        "content": "wise lựa chọn\nvà quality of life\nbetter ở ngoại thành\nvới space hơn"
       }
     ]
   },
@@ -33517,7 +33517,7 @@
       },
       {
         "role": "user",
-        "content": "harassment à\nem chỉ friendly\nmake jokes"
+        "content": "harassment à\nem chỉ thiện ý\nmake jokes"
       },
       {
         "role": "assistant",
@@ -34026,7 +34026,7 @@
       },
       {
         "role": "assistant",
-        "content": "competitive tốt\nnhma em put down teammates\nem blame others\nđó k phải competitive\nđó là toxic"
+        "content": "competitive tốt\nnhma em put down teammates\nem trách others\nđó k phải competitive\nđó là toxic"
       },
       {
         "role": "user",
@@ -34034,7 +34034,7 @@
       },
       {
         "role": "assistant",
-        "content": "push k phải\ninsult và blame\nem lm team morale\nworse\nk better"
+        "content": "push k phải\ninsult và trách\nem lm team morale\nworse\nk better"
       },
       {
         "role": "user",
@@ -34345,7 +34345,7 @@
       },
       {
         "role": "user",
-        "content": "harass à\nem chỉ friendly\ntalk với họ"
+        "content": "harass à\nem chỉ thiện ý\ntalk với họ"
       },
       {
         "role": "assistant",
