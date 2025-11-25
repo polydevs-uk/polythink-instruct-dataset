@@ -2,17 +2,17 @@
   "encoding": "simple_estimate",
   "summary": {
     "total_samples": 4000,
-    "total_tokens": 826582,
+    "total_tokens": 825630,
     "multi_turn_samples": 3300,
-    "multi_turn_tokens": 778750,
+    "multi_turn_tokens": 777798,
     "single_turn_samples": 700,
     "single_turn_tokens": 47832,
-    "avg_tokens_per_sample": 206.6455
+    "avg_tokens_per_sample": 206.4075
   },
   "datasets": {
     "Multi-Turn Claude Daily Banter": {
       "items": 940,
-      "tokens": 207248,
+      "tokens": 206296,
       "source_file": "dataset/multi-turn/claude_daily_banter.json"
     },
     "Multi-Turn Daily Banter": {

@@ -205,14 +205,41 @@ def main():
         print()
 
     # Cleanup phase - Reformat all dataset files to pretty print (silent)
+    # Also adds "thinking": null field to all messages if missing
     for file_path, name in all_datasets:
         try:
             # Load current data
             with open(file_path, 'r', encoding='utf-8') as f:
                 original_content = f.read()
 
-            # Parse and save with pretty print
+            # Parse
             data = json.loads(original_content)
+            
+            # Add thinking field and ensure order: role -> thinking -> content
+            for item in data:
+                if 'messages' in item:
+                    new_messages = []
+                    for msg in item['messages']:
+                        new_msg = {}
+                        # 1. Role
+                        if 'role' in msg:
+                            new_msg['role'] = msg['role']
+                        
+                        # 2. Thinking
+                        if 'thinking' in msg:
+                            new_msg['thinking'] = msg['thinking']
+                        else:
+                            new_msg['thinking'] = None
+                            
+                        # 3. Content and others
+                        for k, v in msg.items():
+                            if k not in ['role', 'thinking']:
+                                new_msg[k] = v
+                        
+                        new_messages.append(new_msg)
+                    item['messages'] = new_messages
+
+            # Save with pretty print
             with open(file_path, 'w', encoding='utf-8') as f:
                 json.dump(data, f, ensure_ascii=False, indent=2)
 
@@ -334,11 +361,8 @@ def main():
         for item in data:
             new_item = item.copy()
             # Store original ID if exists
-            if 'id' in item:
-                new_item['_original_id'] = item['id']
             # Renumber ID
             new_item['id'] = f"{current_id:04d}"
-            new_item['_source'] = name
             merged_data.append(new_item)
             current_id += 1
 
