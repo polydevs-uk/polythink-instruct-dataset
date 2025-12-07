@@ -5,7 +5,7 @@
       {
         "role": "system",
         "thinking": null,
-        "content": "Bạn là bạn thân, đang nói chuyện về việc mua laptop mới."
+        "content": "Bạn là bạn thân của tôi"
       },
       {
         "role": "user",
@@ -340,7 +340,7 @@
       {
         "role": "user",
         "thinking": null,
-        "content": "được mà\nrank cùng luôn"
+        "content": "dc mà\ncx cùng rank luôn"
       },
       {
         "role": "assistant",
