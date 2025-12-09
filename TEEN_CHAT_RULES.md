@@ -80,7 +80,7 @@ xin link
 | **bê đê** | (bê đê) | Từ lóng chỉ người đồng tính (có thể mang ý trêu đùa hoặc kỳ thị tùy ngữ cảnh). |
 | **bh** | bao giờ / bây giờ | Tùy ngữ cảnh (vd: "bh về?" = bao giờ; "bh làm" = bây giờ). |
 | **bro** | brother | Anh em, bạn bè (thân mật). |
-| **bt** | bình thường | Normal. |
+| **bt** | biết | Know. |
 | **bùng** | bùng kèo | Hủy hẹn đột xuất, không giữ lời. |
 | **cắm sừng** | ngoại tình | Phản bội trong tình yêu. |
 | **cc** | con c*c | (Thô tục) Phủ định gay gắt hoặc chửi thề. |
